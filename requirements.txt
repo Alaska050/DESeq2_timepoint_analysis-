@@ -1,0 +1,6 @@
+R 4.5.2
+Bioconductor 3.22
+
+Direct package dependencies:
+- DESeq2 (1.50.2)
+- gplots (3.3.0)
