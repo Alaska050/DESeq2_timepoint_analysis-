@@ -18,7 +18,7 @@ This project demonstrates a complete end-to-end differential expression pipeline
 - Identify significantly upregulated and downregulated genes
 - Integrate functional annotation
 - Analyse plasmid-associated gene expression
-- Generate publication-style visualisations
+
 
 ---
 
